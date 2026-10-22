@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henrique Scarparo!
 
+> Desenvolvedor Web focado no desenvolvimento de sistemas web, automações e APIs. Atualmente criando soluções práticas para negócios locais e expandindo meu portfólio backend.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Backend:** PHP 8 (PDO), Java, Python
+- **Banco de Dados:** MySQL / MariaDB
+- **Frontend & Interface:** HTML5, CSS3, JavaScript (ES6), Bootstrap 5
+- **Ferramentas:** Git, GitHub, XAMPP, VS Code
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🏥 **[Sistema Clínica Aurora](https://github.com/Naoki-Zx/Sistema-Clinica-Aurora):** Aplicação web completa (CRUD) para gestão de clientes e agendamentos desenvolvida com PHP, MySQL e Bootstrap 5.
+
+---
 <!--
-**Naoki-Zx/Naoki-Zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Vamos Conversar?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **WhatsApp:** [Enviar Mensagem](https://wa.me/55SEUNUMERO)
+- **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seu-perfil)
 -->
