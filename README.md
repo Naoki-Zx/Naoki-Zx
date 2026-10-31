@@ -13,7 +13,6 @@
   </a>
 </div>
 <br />
----
 
 
 ### <img src="https://api.iconify.design/feather/user.svg?color=%2338bdf8" width="20" height="20" align="center" /> Sobre Mim
