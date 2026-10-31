@@ -57,7 +57,7 @@
 ### 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naoki-Zx&theme=darkhub&column=6&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03d10a68-cc14-4088-8d3a-1a76d923cdb1" />
 </div>
 
 ---
