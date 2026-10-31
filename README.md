@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://api.iconify.design/feather/terminal.svg?color=%2338bdf8" width="60" height="60" alt="Terminal Icon" />
-  <h1>Henrique Scarparo</h1>
-  <p><b>Desenvolvedor Web</b></p>
-  
-  <p>
-    <a href="https://instagram.com/_henrique.s09" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@__henrique.s09-0d1117?style=for-the-badge&logo=instagram&logoColor=38bdf8&borderColor=1e293b" alt="Instagram" />
-    </a>
-  </p>
+  <!-- Banner Topo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a8a&height=200&section=header&text=Henrique%20Scarparo&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Animação de Digitação -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;PHP+%E2%80%A2+Java+%E2%80%A2+JavaScript;HTML5+%E2%80%A2+CSS3+%E2%80%A2+SQL;Solu%C3%A7%C3%B5es+modernas+e+eficientes" alt="Typing Animation" />
+  </a>
+<br />
+  <br />
+  <!-- Redes Sociais -->
+<a href="https://instagram.com/_henrique.s09" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@__henrique.s09-1E293B?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" />
+  </a>
 </div>
-
+<br />
 ---
+
 
 ### <img src="https://api.iconify.design/feather/user.svg?color=%2338bdf8" width="20" height="20" align="center" /> Sobre Mim
 
